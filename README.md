@@ -2,7 +2,7 @@
 
 ### Summary:
 
-My Python Exam Solutions.
+- My Python Exam Solutions.
 
 ### Requirements:
 
